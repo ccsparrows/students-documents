@@ -1,0 +1,20 @@
+export const options = [{
+  label: '学号',
+  prop: 'id'
+}, {
+  label: '姓名',
+  prop: 'student_name'
+}, {
+  label: '入住时间',
+  prop: 'move_in_time'
+}, {
+  label: '楼宇编号',
+  prop: 'build_number'
+}, {
+  label: '宿舍编号',
+  prop: 'room_number'
+}, {
+  label: '操作',
+  prop: 'action',
+  width: 150
+}, ]

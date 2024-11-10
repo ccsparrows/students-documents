@@ -1,0 +1,20 @@
+export const options = [{
+  label: '序号',
+  prop: 'id'
+}, {
+  label: '楼宇编号',
+  prop: 'number'
+}, {
+  label: '楼宇地址',
+  prop: 'address'
+}, {
+  label: '宿管编号',
+  prop: 'dorm_manager_id'
+}, {
+  label: '宿管姓名',
+  prop: 'dorm_manager'
+}, {
+  label: '操作',
+  prop: 'action',
+  width: 150
+}, ]
